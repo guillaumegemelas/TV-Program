@@ -10,7 +10,6 @@ h1 {
   max-width: 700px;
   /* background-color: pink; */
   margin: 0 auto;
-  height: 900px;
 }
 
 header {
@@ -44,6 +43,12 @@ header {
   display: flex;
   flex-direction: column;
 }
+/* pour agrandire les img
+.global .picture {
+  display: flex;
+  object-fit: cover;
+  width: 100px;
+} */
 
 .durationDirect {
   display: flex;

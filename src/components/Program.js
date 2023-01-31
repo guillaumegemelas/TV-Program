@@ -6,7 +6,6 @@ const Program = ({ time, title, type, duration, image, isUnseen, direct }) => {
       </div>
 
       <div className="picture">
-        {/* <p>{image}</p> */}
         <img src={image} alt="images" />
       </div>
 
